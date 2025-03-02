@@ -1,0 +1,9 @@
+theme: jekyll-theme-bay
+remote_theme: pages-themes/bay
+title: Speech Dynamics Laboratory - SpeeDylab [spidaɪlæb]
+plugins:
+  - jekyll-include-cache
+
+url:  # should be empty
+baseurl:  # should be empty
+serve_og_meta: true
