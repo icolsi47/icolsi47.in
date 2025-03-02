@@ -1,5 +1,5 @@
 ---
-title: 47th International Conference of the Linguistic Soceity of India
+title: 47th International Conference of the Linguistic Society of India
 ---
 
 # ICOLSI 47
